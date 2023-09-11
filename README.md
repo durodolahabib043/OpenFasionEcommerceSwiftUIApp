@@ -29,7 +29,7 @@
   <h3 align="center">Mobile Apps Academy</h3>
 
   <p align="center">
-    A complete E-Commerce App UI developer using SwiftUI
+    One stop solution for all mobile app development
     <br />
     <a href="https://www.youtube.com/playlist?list=PLFo6MW4q69PxuLT9bc5furp4GvDnIM-iR"><strong>Explore the playlist »</strong></a>
     <br />
@@ -42,7 +42,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/playlist?list=PLFo6MW4q69PxuLT9bc5furp4GvDnIM-iR)
 
-This project is developed as 10 part tutorial series of SwiftUI on Youtube.
+This project is developed as a 10 part tutorial series of SwiftUI on Youtube.
 
 This project contains:
 * Complete shopping app UI
@@ -67,7 +67,6 @@ This project contains:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Xcode 14.3 or Above
 
 ### Installation
