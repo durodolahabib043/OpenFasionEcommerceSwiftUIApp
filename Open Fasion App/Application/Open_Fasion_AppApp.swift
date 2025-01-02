@@ -11,7 +11,7 @@ import SwiftUI
 struct Open_Fasion_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }

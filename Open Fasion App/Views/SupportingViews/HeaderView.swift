@@ -14,6 +14,7 @@ struct HeaderView: View {
     
     var body: some View {
         ZStack {
+            Color.cyan.edgesIgnoringSafeArea(.all)
             HStack {
                 Button {
                     menuAction()

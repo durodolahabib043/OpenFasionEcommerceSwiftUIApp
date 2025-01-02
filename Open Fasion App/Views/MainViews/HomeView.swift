@@ -38,7 +38,7 @@ struct HomeView: View {
                     .padding(.top, 56)
                 }
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
-                .overlay(alignment: .top) {
+                .overlay(alignment: .bottom) {
                     HeaderView {
                         presentSideMenu.toggle()
                     } cartAction: {

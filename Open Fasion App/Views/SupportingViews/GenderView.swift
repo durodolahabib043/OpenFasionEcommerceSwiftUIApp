@@ -21,11 +21,11 @@ struct GenderView: View {
             if isSelected {
                 ZStack {
                     Rectangle()
-                        .foregroundColor(Color.Default)
+                        .foregroundColor(.blue)
                         .frame(height: 1)
                     
                     Rectangle()
-                        .foregroundColor(Color.Default)
+                        .foregroundColor(.orange)
                         .frame(width: 5, height: 5)
                         .rotationEffect(Angle(degrees: 45))
     

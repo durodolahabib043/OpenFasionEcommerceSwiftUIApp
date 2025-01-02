@@ -52,6 +52,7 @@ struct ProductsList: View {
                 } cartAction: {
                     presentSideCart.toggle()
                 }
+
             }
             
             SideMenu()

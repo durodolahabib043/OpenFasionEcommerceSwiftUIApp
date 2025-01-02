@@ -14,8 +14,9 @@ struct SideView: View {
     
     var body: some View {
         ZStack(alignment: .bottom) {
+           // Color.orange.edgesIgnoringSafeArea(.all)
             if isShowing {
-                Color.black
+                Color.orange
                     .opacity(0.3)
                     .ignoresSafeArea()
                 
