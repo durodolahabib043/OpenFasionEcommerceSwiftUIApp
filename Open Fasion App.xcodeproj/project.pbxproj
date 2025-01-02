@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F3ECFE32D274F1A002BBF4C /* CategoryTapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3ECFE22D274F1A002BBF4C /* CategoryTapView.swift */; };
 		D91666832A94FBB100AB0A2E /* TrendingHashtagsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91666822A94FBB100AB0A2E /* TrendingHashtagsView.swift */; };
 		D91666852A94FBD500AB0A2E /* HashtagsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91666842A94FBD500AB0A2E /* HashtagsView.swift */; };
 		D91666872A94FF4900AB0A2E /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91666862A94FF4900AB0A2E /* FooterView.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F3ECFE22D274F1A002BBF4C /* CategoryTapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTapView.swift; sourceTree = "<group>"; };
 		D91666822A94FBB100AB0A2E /* TrendingHashtagsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingHashtagsView.swift; sourceTree = "<group>"; };
 		D91666842A94FBD500AB0A2E /* HashtagsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashtagsView.swift; sourceTree = "<group>"; };
 		D91666862A94FF4900AB0A2E /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
@@ -179,6 +181,7 @@
 				D916668C2A9506F300AB0A2E /* GenderView.swift */,
 				D94F5DF12A987619003799D6 /* SideCartView.swift */,
 				D94F5DF52A9879C4003799D6 /* CartItemView.swift */,
+				4F3ECFE22D274F1A002BBF4C /* CategoryTapView.swift */,
 			);
 			path = SupportingViews;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				D91666872A94FF4900AB0A2E /* FooterView.swift in Sources */,
 				D9ACBA942A893D62009A1C33 /* typealiases.swift in Sources */,
 				D9ACBA832A893D09009A1C33 /* ContentView.swift in Sources */,
+				4F3ECFE32D274F1A002BBF4C /* CategoryTapView.swift in Sources */,
 				D9ACBAA92A894455009A1C33 /* Product.swift in Sources */,
 				D91666852A94FBD500AB0A2E /* HashtagsView.swift in Sources */,
 				D9ACBA982A893D77009A1C33 /* Enums.swift in Sources */,

@@ -12,6 +12,12 @@ struct Open_Fasion_AppApp: App {
     var body: some Scene {
         WindowGroup {
             HomeView()
+            /*
+             CategoryTapView(categories: ["Fire", "No", "Get", "Enerny", "Fire"]) { selected in
+                 print("Selected Category : \(selected)")
+             }
+             */
+    
         }
     }
 }
